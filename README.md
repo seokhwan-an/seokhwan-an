@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Seokhwan An 👋
 
 <!--
 **seokhwan-an/seokhwan-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
