@@ -13,6 +13,10 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=asok369258)](https://sol
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-1572B6.svg?&style=for-the-badge&logo=Django&logoColor=white)
+
+# My Goal
+to create programs that are useful to people <br>
+to become a faithful programer 
 <!--
 **seokhwan-an/seokhwan-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
