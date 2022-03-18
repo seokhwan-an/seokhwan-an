@@ -17,6 +17,8 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=asok369258)](https://sol
 # My Goal
 ### to create programs that are useful to people
 ### to become a faithful programer 
+# My Experience
+### likelion 9th(mentee)
 <!--
 **seokhwan-an/seokhwan-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
