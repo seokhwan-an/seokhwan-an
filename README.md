@@ -14,11 +14,11 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=asok369258)](https://sol
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-1572B6.svg?&style=for-the-badge&logo=Django&logoColor=white)
 
-# My Goal
+# ✔️My Goal
 ### to create programs that are useful to people
 ### to become a faithful programer 
 # My Experience
-### likelion 9th(mentee)
+### 🦁 likelion 9th(mentee)
 <!--
 **seokhwan-an/seokhwan-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
