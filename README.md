@@ -17,6 +17,7 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=asok369258)](https://sol
 # ✔️My Goal
 ### to create programs that are useful to people
 ### to become a faithful programer 
+### to learn new technology
 # My Experience
 ### 🦁 likelion 9th(mentee)
 <!--
