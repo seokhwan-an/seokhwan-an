@@ -1,6 +1,6 @@
 # Hi I'm Seokhwan An 👋
 
-### 주요 Project
+### 📚주요 Project
 - 대동제 축제 사이트, let's kkirit (2022.09 ~ 2022.10)
 - 노래의 킬링파트부터 들어보자, S-HOOK (2023.06 ~ )
 ### 🌱Skills
@@ -9,7 +9,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![githubactions](https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
 
-### My Experience
+### 💡My Experience
 -  likelion 9th(mentee) 2021.03 ~ 2021.11
 -  likelion 10th(mentor) 2022.03 ~ 2022.11
 -  우아한테크코스 5기 백엔드 분야 2023.02 ~ 2023.11
