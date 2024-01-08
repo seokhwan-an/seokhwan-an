@@ -1,23 +1,18 @@
 # Hi I'm Seokhwan An 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokhwan-an&count_bg=%23FA9A01&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![seokhwan-an GitHub stats](https://github-readme-stats.vercel.app/api?username=seokhwan-an&show_icons=true&theme=radical)
-
-[![Solved.ac
-Profile](http://mazassumnida.wtf/api/generate_badge?boj=asok369258)](https://solved.ac/asok369258/)
-
-# 🌱Skills
-### Platforms & Languages
+### 주요 Project
+- 대동제 축제 사이트, let's kkirit (2022.09 ~ 2022.10)
+- 노래의 킬링파트부터 들어보자, S-HOOK (2023.06 ~ )
+### 🌱Skills
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![githubactions](https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
 
-# ✔️My Goal
-### to create programs that are useful to people
-### to become a faithful programer 
-### to learn new technology
-# My Experience
-### 🦁 likelion 9th(mentee)
+### My Experience
+-  likelion 9th(mentee) 2021.03 ~ 2021.11
+-  likelion 10th(mentor) 2022.03 ~ 2022.11
+-  우아한테크코스 5기 백엔드 분야 2023.02 ~ 2023.11
 <!--
 **seokhwan-an/seokhwan-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
