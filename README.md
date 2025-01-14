@@ -3,6 +3,7 @@
 ### 📚주요 Project
 - 대동제 축제 사이트, let's kkirit (2022.09 ~ 2022.10)
 - 노래의 킬링파트부터 들어보자, S-HOOK (2023.06 ~ )
+- 독서모임 관리 시스템, DayOne (2025.01 ~ )
 ### 🌱Skills
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -13,6 +14,7 @@
 -  likelion 9th(mentee) 2021.03 ~ 2021.11
 -  likelion 10th(mentor) 2022.03 ~ 2022.11
 -  우아한테크코스 5기 백엔드 분야 2023.02 ~ 2023.11
+-  초록 스터디 3기 2024.06 ~ 진행중
 <!--
 **seokhwan-an/seokhwan-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
