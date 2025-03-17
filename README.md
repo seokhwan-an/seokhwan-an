@@ -2,7 +2,7 @@
 
 ### 📚주요 Project
 - 대동제 축제 사이트, let's kkirit (2022.09 ~ 2022.10, 2024.11 ~ )
-- 노래의 킬링파트부터 들어보자, S-HOOK (2023.06 ~ )
+- 노래의 킬링파트부터 들어보자, S-HOOK (2023.06 ~ 2024.01)
 - 독서모임 관리 시스템, DayOne (2025.01 ~ )
 ### 🌱Skills
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
